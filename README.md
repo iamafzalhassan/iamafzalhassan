@@ -1,7 +1,9 @@
 # Afzal Hassan
 
-**Mobile Software Engineer** · Kotlin Multiplatform · Android · iOS · Flutter
-Colombo, Sri Lanka · Open to relocation: **Europe & Middle East**
+**Mobile Software Engineer**\
+Android · iOS · Flutter · Kotlin Multiplatform\
+Colombo, Sri Lanka\
+Open to relocation: **Europe & Middle East**
 
 [![Email](https://img.shields.io/badge/Email-imakevirtual%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:imakevirtual@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iamafzalhassan-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/iamafzalhassan)
@@ -10,15 +12,6 @@ Colombo, Sri Lanka · Open to relocation: **Europe & Middle East**
 I build mobile apps that stay correct, fast and easy to change long after launch.
 
 For 5+ years at **Arimac** I've shipped production apps for enterprise clients in **telecom, fintech, aviation and government**, including **SriLankan Airlines, Ooredoo, Batelco and PayLater**. My work sits where product meets platform: modular architecture, performance, offline-first data, and the CI/CD and testing that let teams release with confidence. I also lead design reviews and mentor junior and mid-level engineers.
-
----
-
-### Engineering principles
-
-- **Correctness over convenience.** Money is integer minor units or `BigDecimal`, never a float. Invalid states are unrepresentable, not just unchecked.
-- **Local-first by default.** The UI reads from the device; the network is a background concern.
-- **Boundaries that hold.** Unidirectional data flow, pure domain layers with no IO, and layering rules the codebase actually follows.
-- **Decisions are written down.** Architecture choices, trade-offs and conventions are documented next to the code.
 
 ---
 
@@ -59,7 +52,6 @@ For 5+ years at **Arimac** I've shipped production apps for enterprise clients i
 | Area | Stack |
 |---|---|
 | **Languages** | Kotlin · Swift · Dart · Java |
-| **UI** | Jetpack Compose · Compose Multiplatform · Flutter · Material 3 |
 | **Multiplatform** | Kotlin Multiplatform · Flutter |
 | **Architecture** | Clean Architecture · MVVM · MVI · Unidirectional data flow · Modularization |
 | **State & Async** | Coroutines & Flow · StateFlow · Bloc · Riverpod · Provider |
