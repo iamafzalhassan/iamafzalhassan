@@ -3,7 +3,7 @@
 **Mobile Software Engineer**\
 Android · iOS · Flutter · Kotlin Multiplatform\
 Colombo, Sri Lanka\
-Open to relocation: **Europe & Middle East**
+Open to **remote** roles
 
 [![Email](https://img.shields.io/badge/Email-imakevirtual%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:imakevirtual@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iamafzalhassan-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/iamafzalhassan)
@@ -68,4 +68,4 @@ For 5+ years at **Arimac** I've built production apps for enterprise clients in 
 
 ---
 
-**Currently open to Mobile Engineer roles in Europe and the Middle East.** The fastest way to reach me is [email](mailto:imakevirtual@gmail.com).
+**Currently open to remote Mobile Engineer roles.** The fastest way to reach me is [email](mailto:imakevirtual@gmail.com).
