@@ -11,7 +11,7 @@ Open to relocation: **Europe & Middle East**
 
 I build mobile apps that stay correct, fast and easy to change long after launch.
 
-For 5+ years at **Arimac** I've shipped production apps for enterprise clients in **telecom, fintech, aviation and government**, including **SriLankan Airlines, Ooredoo, Batelco and PayLater**. My work sits where product meets platform: modular architecture, performance, offline-first data, and the CI/CD and testing that let teams release with confidence. I also lead design reviews and mentor junior and mid-level engineers.
+For 5+ years at **Arimac** I've built production apps for enterprise clients in **telecom, fintech, aviation and government**, including **SriLankan Airlines, Ooredoo, Batelco and PayLater**. My work sits where product meets platform: modular architecture, performance, offline-first data, and the CI/CD and automated testing that let teams deliver with confidence. I also lead design reviews and mentor junior and mid-level engineers.
 
 ---
 
@@ -32,19 +32,18 @@ For 5+ years at **Arimac** I've shipped production apps for enterprise clients i
 ### Experience
 
 **Software Engineer, Mobile** · Arimac · *2023 – Present*
-<sub>Ooredoo Algeria · Batelco · PayLater · SriLankan Airlines</sub>
-- Architected modular apps with Clean Architecture and MVVM so feature teams ship independently
-- Removed performance bottlenecks through memory profiling, caching and concurrency-safe networking layers
-- Accelerated releases with CI/CD automation and layered testing strategies
-- Lead design reviews, set code standards and mentor junior and mid-level engineers
-- Partner with distributed, cross-functional teams to align technical execution with product goals
+<sub>SriLankan Airlines · Ooredoo Algeria · Batelco · PayLater</sub>
+- Architected modular apps with Clean Architecture and MVVM so feature teams could build and ship independently on large enterprise codebases
+- Found and fixed performance bottlenecks through memory profiling, response caching and a concurrency-safe networking layer
+- Automated build and test pipelines on Bitrise, Codemagic and GitHub Actions, with Shorebird OTA updates, for faster and lower-risk delivery
+- Led design reviews, set team code standards, and mentored junior and mid-level engineers
+- Worked with distributed product, design, QA and backend teams to scope features and deliver them on client roadmaps
 
 **Associate Software Engineer, Mobile** · Arimac · *2021 – 2023*
 <sub>Ooredoo Maldives · Road Development Authority · Dilmah Tea · Mabroc · Softlogic One</sub>
-- Delivered multiple production apps to Google Play and the App Store for enterprise clients
-- Integrated RESTful APIs with structured error handling and retry mechanisms
-- Wrote unit, widget and integration tests for critical user flows
-- Reduced release turnaround time with automated CI/CD pipelines
+- Delivered multiple production apps for telecom, government, retail and tea-industry clients
+- Integrated REST APIs with structured error handling and retry logic so core flows stay reliable on unstable mobile networks
+- Wrote automated tests for critical user flows and set up CI/CD pipelines that shortened delivery turnaround
 
 ---
 
@@ -52,15 +51,14 @@ For 5+ years at **Arimac** I've shipped production apps for enterprise clients i
 
 | Area | Stack |
 |---|---|
-| **Languages** | Kotlin · Swift · Dart · Java |
-| **Multiplatform** | Kotlin Multiplatform · Flutter |
-| **Architecture** | Clean Architecture · MVVM · MVI · Unidirectional data flow · Modularization |
-| **State & Async** | Coroutines & Flow · StateFlow · Bloc · Riverpod · Provider |
-| **Data** | Room · SQLite · Hive · Offline-first sync · Ktor · Dio |
-| **Backend & Cloud** | Supabase (Postgres, RLS) · Firebase · Spring Boot · AWS · GCP |
-| **Testing** | Unit · Widget · Integration |
-| **CI/CD** | GitHub Actions · Bitrise · Codemagic · Shorebird OTA |
-| **Tooling** | Android Studio · Xcode · Git · Figma · Jira · Claude Code · Cursor |
+| **Languages** | Dart · Java · Kotlin · Swift |
+| **Mobile** | Flutter · Jetpack Compose · Kotlin Multiplatform |
+| **Architecture** | Clean Architecture · Modularization · MVI · MVVM · Unidirectional data flow |
+| **State & Async** | BLoC · Coroutines & Flow · Provider · Riverpod · StateFlow |
+| **Data** | Dio · Hive · Ktor · Offline-first sync · Room · SQLite |
+| **Backend & Cloud** | AWS · Firebase · GCP · Spring Boot · Supabase (Postgres, RLS) |
+| **Testing & CI/CD** | Automated testing · Bitrise · Codemagic · GitHub Actions · Shorebird OTA |
+| **Tools** | Android Studio · Claude Code · Cursor · Figma · Git · Jira · Xcode |
 
 ---
 
