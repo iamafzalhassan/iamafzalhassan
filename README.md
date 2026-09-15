@@ -1,7 +1,7 @@
 # Afzal Hassan
 
 **Mobile Software Engineer**\
-Android · iOS · Flutter · Kotlin Multiplatform\
+Android · Flutter · Kotlin Multiplatform\
 Colombo, Sri Lanka\
 Open to **remote** roles
 
@@ -51,14 +51,14 @@ For 5+ years at **Arimac** I've built production apps for enterprise clients in 
 
 | Area | Stack |
 |---|---|
-| **Languages** | Dart · Java · Kotlin · Swift |
+| **Languages** | Dart · Java · Kotlin |
 | **Mobile** | Flutter · Jetpack Compose · Kotlin Multiplatform |
 | **Architecture** | Clean Architecture · Modularization · MVI · MVVM · Unidirectional data flow |
 | **State & Async** | BLoC · Coroutines & Flow · Provider · Riverpod · StateFlow |
 | **Data** | Dio · Hive · Ktor · Offline-first sync · Room · SQLite |
 | **Backend & Cloud** | AWS · Firebase · GCP · Spring Boot · Supabase (Postgres, RLS) |
 | **Testing & CI/CD** | Automated testing · Bitrise · Codemagic · GitHub Actions · Shorebird OTA |
-| **Tools** | Android Studio · Claude Code · Cursor · Figma · Git · Jira · Xcode |
+| **Tools** | Android Studio · Claude Code · Cursor · Figma · Git · Jira |
 
 ---
 
